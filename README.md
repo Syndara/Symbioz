@@ -25,4 +25,4 @@ Mathis Cucci (https://github.com/Matspyder51)
 
 LuaxY - https://github.com/LuaxY
 
-Project under license creative commons.
+
